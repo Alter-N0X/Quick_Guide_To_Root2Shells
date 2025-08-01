@@ -110,27 +110,34 @@ The standard baud rates are the following: 
 
 Guessing the baud is easy, but sometimes engineers get creative, so guessing might not be a good option, the logical way is to use a logic analyzer like the `saleae logic 4` but its no longer sold and also ehm..e..expensive, VERY EXPENSIVE (**400$**), after some research I found a good alternative which is the `TZT USB Logic Analyzer 24MHz 8 Channel`, which is 8 channels not only 4, works with the logic analyzer 2 software, and much cheaper (**5\$** max )
 
-![[Pasted image 20250314140605.png| TZT USB Logic Analyzer 24MHz 8 Channel]]
+TZT USB Logic Analyzer 24MHz 8 Channel
+
+![](attachements/16.png)
 
 Setting up the analyzer is the same as setting up `CP2102`, we connect it then we open the software:
-![[Pasted image 20250314140835.png| Connecting the saleae logic 4 to the device]]
+Connecting the saleae logic 4 to the device
+
+![](attachements/17.png)
 
 After that we press the start button on the logic analyzer 2 software and then turn on the device:
-![[Pasted image 20250314141033.png| ]]
+![](attachements/18.png)
 we take the bit duration value (8.333μs = 8333ns) and we divide 1 by it which is 
 $1/8333 = 0.000120005 ≃ 115200$ 
-![[Pasted image 20250314141602.png]]
+![](attachements/19.png)
 
 we change that in Putty config and then connect:
-![[Pasted image 20250314141934.png]]
+![](attachements/20.png)
 sometimes the connection of `RX` to the cpu might be cut off like this 
 
-| ![[Pasted image 20250314142109.png]] | ![[Pasted image 20250314142023.png]] |
+| ![](attachements/21.png) | ![](attachements/22.png) |
 |:------------------------------------ |:------------------------------------ |
-![[Pasted image 20250314142208.png| using paper pin to re-establish the connection between `RX` and the CPU]]
+
+using paper pin to re-establish the connection between `RX` and the CPU
+
+![](attachements/23.png)
 
 Now after rebooting and connecting hopefully we get a root shell:
-![[Pasted image 20250314142341.png]]
+![](attachements/24.png)
 
 #### Toolset 
 | Device Name                                | Price (TND)         | Link                                                                                                                                                                   |
