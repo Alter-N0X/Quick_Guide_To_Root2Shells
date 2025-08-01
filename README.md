@@ -140,7 +140,7 @@ Now after rebooting and connecting hopefully we get a root shell:
 ![](attachements/24.png)
 
 > [!Tip]
-> This was a general approach applied on a specific device, you might face different connectors layout or protection mechanisme might come your way, I hope you got something out of this to counter that. Thank you for readying! (why not give us a ⭐) 
+> This was a general approach applied on a specific device, you might face different connectors layout or protection mechanisme might come your way, I hope you got something out of this to counter that. Thank you for reading! (why not give us a ⭐) 
 #### Toolset 
 | Device Name                                | Price (TND)         | Link                                                                                                                                                                   |
 | ------------------------------------------ | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
