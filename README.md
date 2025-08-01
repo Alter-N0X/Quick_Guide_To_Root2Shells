@@ -90,10 +90,10 @@ We attach:
 
 Device Manager Interface after connecting the device using CP2102
 
-![](attachements/13.png)
-
 <span style="color: #10ff90"><b>Green</b></span> Means its working fine 
 <span style="color: #ff1030"><b>Red</b></span> Means its not identified by the system and probably requires a driver which we can get from [here](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
+
+![](attachements/13.png)
 
 The computer is connected to the device using CP2102 Module
 
