@@ -79,7 +79,7 @@ Value on the multi-meter when hitting TX
 ### Connecting the device
 | CP2102 | Pins Male Male |
 | :-------------------------------------------- | :-------------------------------------------------------- |
-| CP2102![](attachements/11.png) | ![](attachements/12.png) |
+| ![](attachements/11.png) | ![](attachements/12.png) |
 
 Using the `CP2102 USB to UART`:
 We attach:
@@ -88,16 +88,22 @@ We attach:
 - Device's `GND` to CP2102's `GND`
 - The CP2102 to the computer
 
-![[Pasted image 20250314130811.png| Device Manager Interface after connecting the device using CP2102]]
+Device Manager Interface after connecting the device using CP2102
+
+![](attachements/13.png)
 
 <span style="color: #10ff90"><b>Green</b></span> Means its working fine 
 <span style="color: #ff1030"><b>Red</b></span> Means its not identified by the system and probably requires a driver which we can get from [here](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
-![[Pasted image 20250314131722.png| The computer is connected to the device using CP2102 Module]]
+The computer is connected to the device using CP2102 Module
+
+![](attachements/14.png)
 
 We can setup Putty to connect to the device: 
 
-![[Pasted image 20250314135812.png | Green should be set to `serial`, Blue is the COM interface found in Device Manager, Red is the baud rate ]]
+Green should be set to `serial`, Blue is the COM interface found in Device Manager, Red is the baud rate
+
+![](attachements/15.png)
 
 The standard baud rates are the following: 
 **4800, 9600, 19200, 38400, 57600, 115200, 230400, 460800, 921600**.
