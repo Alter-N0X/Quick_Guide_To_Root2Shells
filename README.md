@@ -59,7 +59,7 @@ Steps Before Starting
 - Find a grounded element on the device, mostly any metal cover on the board.
 
 **Determining `GND`:**
-- DEVICE STATE: Shut ==OFF==
+- DEVICE STATE: Shut _OFF_
 - Start testing the pins one by one until a beep sounds comes out of the multi-meter
 
 When the COM is on the metal cover, The V on the 3rd pin hole, A beeping sound occures
