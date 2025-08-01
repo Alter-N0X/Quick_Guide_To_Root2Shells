@@ -61,7 +61,10 @@ Steps Before Starting
 **Determining `GND`:**
 - DEVICE STATE: Shut ==OFF==
 - Start testing the pins one by one until a beep sounds comes out of the multi-meter
-![[Pasted image 20250314122658.png| When the COM is on the metal cover, The V on the 3rd pin hole, A beeping sound occures]]
+
+When the COM is on the metal cover, The V on the 3rd pin hole, A beeping sound occures
+
+![](attachements/9.png)
 
 **Determining TX,RX and VCC:**
 - DEVICE STATE: Turned ==ON==
