@@ -35,17 +35,22 @@ The connection interface is marked with a triangle:
 
 ![](attachements/4.png)
 
+The connection interface is clearly marked:
 
-![[Pasted image 20250314121505.png| The connection interface is clearly marked]]
+![](attachements/5.png)
 
-![[Pasted image 20250314121520.png| The connection interface not marked and a bit hard to reach]]
+The connection interface not marked and a bit hard to reach:
+
+![](attachements/6.png)
 
 
 **Hard:**
-![[Pasted image 20250314121556.png| The connection is marked but the layout is different]]
+![](attachements/7.png)
 
 **Extreme:**
-![[Pasted image 20250314121615.png| GPU hacking, JK, still Hard tho]]
+GPU hacking, JK, still Hard tho
+
+![](attachements/8.png)
 
 #### Hands-on Stuff
 Steps Before Starting
