@@ -8,7 +8,7 @@ In this article, we dive into the world of **IoT device hacking**, with a specif
 
 >[!Warning]
 >**This content is for educational purposes only.**  
->The techniques demonstrated are meant to help readers understand how IoT devices can be analyzed, secured, and better designed. **Unauthorized access to systems you do not own or have explicit permission to test is illegal.
+>The techniques demonstrated are meant to help readers understand how IoT devices can be analyzed, secured, and better designed. **Unauthorized access to systems you do not own or have explicit permission to test is illegal.**
 ### UART
 
 UART is a protocol used in embedded devices, it transfers data between two pins TX (transmit) and RX (receive). Normally, the pins are on different processors. Data is sent from TX, in a sequence, at a predefined speed. The receiver checks data on RX.
