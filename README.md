@@ -27,11 +27,13 @@ UART interface :
 | -------- | ------- |
 
 **Easy**: 
+
 ![](attachements/3.png)
 
 **Medium:**
+The connection interface is marked with a triangle:
 
-![[Pasted image 20250314120259.png| The conntion interface is marked with a triangle]]
+![](attachements/4.png)
 
 
 ![[Pasted image 20250314121505.png| The connection interface is clearly marked]]
