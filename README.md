@@ -13,7 +13,7 @@ In this article, we dive into the world of **IoT device hacking**, with a specif
 
 UART is a protocol used in embedded devices, it transfers data between two pins TX (transmit) and RX (receive). Normally, the pins are on different processors. Data is sent from TX, in a sequence, at a predefined speed. The receiver checks data on RX.
 
-![[attachements/UART.png]]
+![UART](attachements/UART.png)
 ### Finding The UART Interface
 #### Examples
 UART interface :
@@ -22,9 +22,10 @@ UART interface :
 `GND`: Ground
 `VCC`: Useless (in our case)
 
-| ![[Pasted image 20250314120540.png]]<br> | ![[Pasted image 20250314120638.png]] |
-| :--------------------------------------- | :----------------------------------- |
-|                                          |                                      |
+![UART](attachements/UART.png)
+![link](attachements/Pasted image 20250314120540.png) 
+![](attachements/Pasted image 20250314120638.png) |
+
 **Easy**: 
 ![[Pasted image 20250314120228.png| Pins already soldered into the connectors]]
 
