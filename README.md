@@ -23,10 +23,10 @@ UART interface :
 `VCC`: Useless (in our case)
 
 ![img](attachements/1.png) 
-![](attachements/Pasted image 20250314120638.png) |
+![](attachements/2.png) |
 
 **Easy**: 
-![[Pasted image 20250314120228.png| Pins already soldered into the connectors]]
+![](attachements/3.png Pins already soldered into the connectors)
 
 **Medium:**
 
