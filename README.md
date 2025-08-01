@@ -22,8 +22,7 @@ UART interface :
 `GND`: Ground
 `VCC`: Useless (in our case)
 
-![UART](attachements/UART.png)
-![link](attachements/Pasted image 20250314120540.png) 
+![img](attachements/1.png) 
 ![](attachements/Pasted image 20250314120638.png) |
 
 **Easy**: 
