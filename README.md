@@ -59,7 +59,7 @@ Steps Before Starting
 - Find a grounded element on the device, mostly any metal cover on the board.
 
 **Determining `GND`:**
-- DEVICE STATE: Shut _OFF_
+- DEVICE STATE: Shut **OFF**
 - Start testing the pins one by one until a beep sounds comes out of the multi-meter
 
 When the COM is on the metal cover, The V on the 3rd pin hole, A beeping sound occures
@@ -67,7 +67,7 @@ When the COM is on the metal cover, The V on the 3rd pin hole, A beeping sound o
 ![](attachements/9.png)
 
 **Determining TX,RX and VCC:**
-- DEVICE STATE: Turned ==ON==
+- DEVICE STATE: Turned **ON**
 - Start testing the pins one by one:
 	- If the displayed value is = 3.3V -> Thats **VCC**
 	- if the displayed value is = 0.0V -> Thats **RX**
