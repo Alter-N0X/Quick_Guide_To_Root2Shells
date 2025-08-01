@@ -22,11 +22,12 @@ UART interface :
 `GND`: Ground
 `VCC`: Useless (in our case)
 
-![img](attachements/1.png) 
-![](attachements/2.png) |
+
+| ![img](attachements/1.png)    | ![](attachements/2.png) |
+| -------- | ------- |
 
 **Easy**: 
-![](attachements/3.png Pins already soldered into the connectors)
+![](attachements/3.png)
 
 **Medium:**
 
