@@ -72,12 +72,14 @@ When the COM is on the metal cover, The V on the 3rd pin hole, A beeping sound o
 	- If the displayed value is = 3.3V -> Thats **VCC**
 	- if the displayed value is = 0.0V -> Thats **RX**
 	- if the displayed value is > 0.0V -> Thats **TX**
-	
-![[Pasted image 20250314123456.png| Value on the multi-meter when hitting TX]]
+
+Value on the multi-meter when hitting TX
+![](attachements/10.png)
 
 ### Connecting the device
-| ![[Pasted image 20250314125748.png\| CP2102]] | ![[Pasted image 20250314144348.png\| Pins Male Male]]<br> |
+| CP2102 | Pins Male Male |
 | :-------------------------------------------- | :-------------------------------------------------------- |
+| CP2102![](attachements/11.png) | ![](attachements/12.png) |
 Using the `CP2102 USB to UART`:
 We attach:
 - Device's `RX` To CP2102's `TX`
