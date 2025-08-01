@@ -80,6 +80,7 @@ Value on the multi-meter when hitting TX
 | CP2102 | Pins Male Male |
 | :-------------------------------------------- | :-------------------------------------------------------- |
 | CP2102![](attachements/11.png) | ![](attachements/12.png) |
+
 Using the `CP2102 USB to UART`:
 We attach:
 - Device's `RX` To CP2102's `TX`
